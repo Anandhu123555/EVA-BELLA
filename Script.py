@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = """𝐇𝐞𝐲 {}\n\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐁𝐞𝐥𝐥𝐚\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 𝐂𝐈𝐍𝐄𝐌𝐀𝐇𝐔𝐁...\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anandhukuttu'> 𝓐𝓷𝓪𝓷𝓭𝓱𝓾 </a>"""
+    START_TXT = """𝐇𝐞𝐲 {}\n\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐁𝐞𝐥𝐥𝐚\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/Cinemahub182'>𝐂𝐈𝐍𝐄𝐌𝐀𝐇𝐔𝐁...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anandhukuttu'>  𝓐𝓷𝓪𝓷𝓭𝓱𝓾 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>🥱 My Name : MHD CREATION
+    ABOUT_TXT = """<b>🥱 My Name : 𝐁𝐞𝐥𝐥𝐚💋
 
-🕵‍♂ Developer : <a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a>
+🕵‍♂ Developer : <a href='https://t.me/Anandhukuttu'>★ 𝓐𝓷𝓪𝓷𝓭𝓱𝓾 ★</a>
 
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
@@ -12,12 +12,12 @@ class script(object):
 
 🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 
-🔋 Bot Group : @wolfpackmedia </b>"""
+🔋 Bot Group : @Cinemahub182 </b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 👋<b><i>എന്താടാ മോനെ നോക്കുന്നേ നിനക്ക് ആവശ്യമായിട്ടുള്ളത് ഇവിടെ ഇല്ല 😌
 </i></b>
 
-<b>🕵‍♂ Developer : <a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a> </b>
+<b>🕵‍♂ Developer : <a href='https://t.me/Anandhukuttu'>★ 𝓐𝓷𝓪𝓷𝓭𝓱𝓾 ★</a> </b>
 """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -43,7 +43,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https//t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https//t.me/Anandhukuttu)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

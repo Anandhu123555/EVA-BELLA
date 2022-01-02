@@ -22,6 +22,8 @@ async def start(client, message):
 
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/Belle_v2bot?startgroup=true')
 
+            ],[ 
+            InlineKeyboardButton('✨ Follow Me On Instagram ✨', url='http://instagram.com/An_an_du_128') 
             ],[
 
             InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/Anandhukuttu'),
@@ -73,6 +75,8 @@ async def start(client, message):
 
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/Belle_v2bot?startgroup=true')
 
+            ],[ 
+            InlineKeyboardButton('✨ Follow Me On Instagram ✨', url='http://instagram.com/An_an_du_128') 
             ],[
 
             InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/Anandhukuttu'),

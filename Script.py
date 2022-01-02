@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝐇𝐞𝐲 {}\n\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐁𝐞𝐥𝐥𝐚\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/Cinemahub182'>𝐂𝐈𝐍𝐄𝐌𝐀𝐇𝐔𝐁...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anandhukuttu'>  𝓐𝓷𝓪𝓷𝓭𝓱𝓾 </a>"""
+    START_TXT = """𝐇𝐞𝐲 {}\n\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐁𝐞𝐥𝐥𝐚\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/Cinemahub182'>𝐂𝐈𝐍𝐄𝐌𝐀𝐇𝐔𝐁...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anandhukuttu'>  𝐴𝑛𝑎𝑛𝑑ℎ𝑢 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>🥱 My Name : 𝐁𝐞𝐥𝐥𝐚💋
@@ -24,7 +24,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. Bella Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -35,11 +35,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- Bella Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Bella Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>

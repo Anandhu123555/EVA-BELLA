@@ -77,7 +77,7 @@ def a(client, message):
         )
         print(str(e))
         return
-    m.edit("<b>We are Uploading... Please Wait...</b>")
+    m.edit("<b>We are Uploading... Please Wait...\nIt Will Take Time</b>")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)

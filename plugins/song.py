@@ -38,7 +38,7 @@ def a(client, message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    m = message.reply('<b>Searching Song... Please Wait...</b>')
+    m = message.reply('<b>Searching Song... Please Wait...\n It will Take Some Time</b>')
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = []

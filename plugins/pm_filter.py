@@ -326,7 +326,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('Check PM, I have sent files in pm',show_alert = True)
+                await query.answer('Check PM, I have sent files in pm\nമൂവി നിങ്ങൾക് personal ആയി അയച്ചു',show_alert = True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
@@ -362,10 +362,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/EvaMariaBot?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/Belle_v2bot?startgroup=true')
             ],[
-            InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/mhd_thanzeer'),
-            InlineKeyboardButton('🎪 Group', url='https://t.me/wolfpackmedia')
+            InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/Anandhukuttu'),
+            InlineKeyboardButton('🎪 Group', url='https://t.me/Cinemahub182')
             ],[
             InlineKeyboardButton('🧯 Help ', callback_data='help'),
             InlineKeyboardButton('📚 About', callback_data='about')
@@ -395,7 +395,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/mhd_thanzeer'),
+            InlineKeyboardButton('🕵‍♂ Developer', url='https://t.me/Anandhukuttu'),
             InlineKeyboardButton('♥️ Source', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
